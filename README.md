@@ -17,7 +17,7 @@ First, install the programs required to run the application:
 Next, clone this repository and install dependencies:
 
 ```
-git clone git@github.com:danielstern/express-react-fullstack.git
+git clone git@github.com:developerdennis-star/React-Express-Web-App.git
 ```
 
 ```
@@ -56,11 +56,11 @@ Try:
 ## Challenge Task Solutions
 
 ### Connected Username Component
-1. Create a [connected username component](https://github.com/danielstern/express-react-fullstack/blob/master/src/app/components/UsernameDisplay.jsx) which matches user data with an ID provided as a prop.
+1. Create a [connected username component](https://github.com/developerdennis-star/React-Express-Web-App/blob/master/src/app/components/UsernameDisplay.jsx) which matches user data with an ID provided as a prop.
 2. Update the server-side state assembly process to include the usernames (but not passwords or any sensitive data) of any users which will be relevant to the current session.
 
 ### Sign Up 
-This version of the application is found at the [Add Sign Up Branch](https://github.com/danielstern/express-react-fullstack/tree/add-signup/src/app/components).
+This version of the application is found at the [Add Sign Up Branch](https://github.com/developerdennis-star/React-Express-Web-App/tree/add-signup/src/app/components).
 
 1. Add a link to the sign up page from the login page.
 2. Create a Sign Up route, which is almost identical to the Login route.
